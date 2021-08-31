@@ -1,7 +1,7 @@
-### Oii! Eu sou a Annylys Medeiros
+### Hello, welcome!
 
 
-- 🌱 Estudando: JavaScript, HTML, CSS, .NET
+- 🌱 I am studying: JavaScript, HTML, CSS, JAVA
 
 <div>
   <a href="https://github.com/AnnylysMedeiros">
