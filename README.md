@@ -1,8 +1,11 @@
 <div align="center"> 
 <h1> Hello, welcome! </h1>
 
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/2d85d919c6373e1f45a28944c81ced35.gif" alt="Anny-Gif" width="125" height="125" border="0"/></a>
+<!-- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/892c3bee6b9718ece1c9554b1e616018.gif" alt="Anny-Gif" width="125" height="125" border="0" /></a> -->
 
-<p> 🌱 I am studying: JavaScript, HTML, CSS, JAVA </p>
+  
+<p> 🌱 I'm a student of internet systems </p>
 
 <div>
   <a href="https://github.com/AnnylysMedeiros">
